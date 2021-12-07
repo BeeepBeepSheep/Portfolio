@@ -1083,6 +1083,13 @@ a {
     padding: 0 2rem;
   }
 }
+.cid-sQUhCkU9Se .mbr-text,
+.cid-sQUhCkU9Se .mbr-section-btn {
+  text-align: center;
+}
+.cid-sQUhCkU9Se .mbr-section-title {
+  text-align: center;
+}
 .cid-sQUlo19TBG {
   background-color: #ffb18a;
 }
@@ -1107,6 +1114,13 @@ a {
   .cid-sQUlo19TBG .text-wrapper {
     margin-bottom: 2rem;
   }
+}
+.cid-sQUlo19TBG .mbr-section-title {
+  text-align: center;
+}
+.cid-sQUlo19TBG .mbr-text,
+.cid-sQUlo19TBG .mbr-section-btn {
+  text-align: center;
 }
 .cid-sQUrolyQtt {
   padding-top: 5rem;
